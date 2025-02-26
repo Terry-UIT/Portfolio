@@ -17,6 +17,16 @@ export function Projects({ range }: ProjectsProps) {
     ? sortedProjects.slice(range[0] - 1, range[1] ?? sortedProjects.length)
     : sortedProjects;
 
+  const projects = getPosts(["src", "app", "work", "projects"])
+    .filter((_, index) => {
+      if (!range) return true;
+      return index >= range[0] - 1 && (range[1] ? index < range[1] : true);
+    })
+    .map((project) => ({
+      ...project,
+      image: project.metadata.image || "/images/placeholder.jpg",
+    }));
+
   return (
     <Column fillWidth gap="xl" marginBottom="40" paddingX="l">
       {displayedProjects.map((post, index) => (
