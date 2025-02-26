@@ -56,7 +56,7 @@ const home = {
   subline: (
     <>
       I'm To Vinh "Terry" Tien, a software engineering student at <InlineCode>UIT - University of Information Technology</InlineCode>, where I learn about programming skills.
-      I'm seeking for a internship opportunity as a Software Developer/ Mobile Developer.
+      I'm seeking for an internship opportunity as a Software Developer/ Mobile Developer.
     </>
   ),
 };
