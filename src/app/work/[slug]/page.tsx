@@ -6,7 +6,6 @@ import { baseURL } from "@/app/resources";
 import { person } from "@/app/resources/content";
 import { formatDate } from "@/app/utils/formatDate";
 import ScrollToHash from "@/components/ScrollToHash";
-import Image from "next/image";
 
 interface WorkParams {
   params: {
@@ -107,12 +106,12 @@ export default function Project({ params }: WorkParams) {
         <Heading variant="display-strong-s">{post.metadata.title}</Heading>
       </Column>
       {post.metadata.images.length > 0 && (
-        <Image
-          src={`/images/${post.metadata.images[0]}`}
-          alt={post.metadata.title}
-          width={1200}
-          height={630}
+        <SmartImage
           priority
+          aspectRatio="16 / 9"
+          radius="m"
+          alt="image"
+          src={post.metadata.images[0]}
         />
       )}
       <Column style={{ margin: "auto" }} as="article" maxWidth="xs">
