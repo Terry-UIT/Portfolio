@@ -2,8 +2,6 @@
 
 Welcome to my personal portfolio! I'm a Software Engineering student at UIT - University of Information Technology, passionate about mobile development and full-stack web applications.
 
-![Portfolio Cover](public/images/cover.png)
-
 ## **About Me**
 
 I'm To Vinh "Terry" Tien, a software engineering student seeking opportunities as a Software Developer/Mobile Developer. I specialize in cross-platform mobile development with Flutter and modern web applications with Next.js.
@@ -11,9 +9,9 @@ I'm To Vinh "Terry" Tien, a software engineering student seeking opportunities a
 **Current Focus:**
 
 - 🎓 Pursuing Software Engineering Bachelor's Degree (2022-2026)
-- 📱 Mobile App Development with Flutter & Firebase
+- 📱 Mobile App Development with Flutter-Dart & Firebase
 - 🌐 Full-Stack Web Development with Next.js
-- 🏢 Frontend Web Developer Intern at PNJ Production
+- 🏢 Frontend Web Developer Intern at PNJ Production (Mar 2025 - June 2025)
 
 ## **Technical Skills**
 
@@ -38,7 +36,7 @@ I'm To Vinh "Terry" Tien, a software engineering student seeking opportunities a
 
 ### **🏭 PNJP MES - Manufacturing Execution System**
 
-A comprehensive Manufacturing Execution System built during my internship at PNJ Production, Vietnam's leading jewelry manufacturer.
+A comprehensive Manufacturing Execution System was built during my internship at PNJ Production, Vietnam's leading jewelry manufacturer.
 
 **Technologies:** Next.js, Material-UI, TanStack Query, Spring Boot, PostgreSQL  
 **Features:** Real-time production tracking, inventory management, quality control integration
@@ -47,7 +45,7 @@ A comprehensive Manufacturing Execution System built during my internship at PNJ
 
 A dynamic mobile e-commerce solution for seamless shopping experiences.
 
-**Technologies:** Flutter, Firebase, Provider/Bloc state management  
+**Technologies:** Flutter, Firebase, Bloc state management  
 **Features:** Real-time synchronization, secure authentication, push notifications
 
 ## **Contact & Social**
@@ -64,21 +62,13 @@ A dynamic mobile e-commerce solution for seamless shopping experiences.
 Bachelor's Degree in Software Engineering  
 _August 2022 - June 2026_
 
-Vietnam National University Ho Chi Minh City
+Vietnam National University, Ho Chi Minh City
 
 ## **Open to Opportunities**
 
-I'm actively seeking internship and entry-level positions in:
+I'm actively seeking entry-level positions in:
 
 - **Mobile Development** (Flutter - Dart)
-- **Frontend Development** (Next.js, React, HTML/CSS/JS)
+- **Web Development** (Next.js, React, HTML/CSS/JS)
 
 Feel free to reach out if you'd like to collaborate or discuss opportunities!
-
-## **License**
-
-This portfolio is built on the Magic Portfolio template, distributed under the CC BY-NC 4.0 License with attribution to [Once UI](https://once-ui.com).
-
----
-
-**Built with ❤️ using Next.js and Once UI**
