@@ -58,7 +58,7 @@ const home = {
 			I'm To Vinh "Terry" Tien, a software engineering student at{' '}
 			<InlineCode>UIT - University of Information Technology</InlineCode>, where
 			I learn about programming skills. I'm seeking for a new opportunity as a
-			Software Developer/ Mobile Developer.
+			Software Developer.
 		</>
 	)
 }
@@ -85,8 +85,9 @@ const about = {
 			<>
 				Tien is a Vietnamese software engineer with a passion for transforming
 				complex challenges into simple, elegant solutions. His work focuses on
-				mobile app development, user-friendly interfaces, and optimizing
-				performance to enhance the mobile experience.
+				software engineering across mobile and web development, creating
+				user-friendly interfaces, and optimizing performance to enhance the
+				digital experience.
 			</>
 		)
 	},

@@ -1,89 +1,84 @@
-# **Build your portfolio with Once UI's Magic Portfolio**
+# **To Vinh "Terry" Tien - Portfolio**
 
-View the [demo here](https://demo.magic-portfolio.com).
+Welcome to my personal portfolio! I'm a Software Engineering student at UIT - University of Information Technology, passionate about mobile development and full-stack web applications.
 
-![Magic Portfolio](public/images/cover.png)
+![Portfolio Cover](public/images/cover.png)
 
+## **About Me**
 
-# **Getting started**
+I'm To Vinh "Terry" Tien, a software engineering student seeking opportunities as a Software Developer/Mobile Developer. I specialize in cross-platform mobile development with Flutter and modern web applications with Next.js.
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+**Current Focus:**
 
-**1. Clone the repository**
-```
-git clone https://github.com/once-ui-system/magic-portfolio.git
-```
+- 🎓 Pursuing Software Engineering Bachelor's Degree (2022-2026)
+- 📱 Mobile App Development with Flutter & Firebase
+- 🌐 Full-Stack Web Development with Next.js
+- 🏢 Frontend Web Developer Intern at PNJ Production
 
-**2. Install dependencies**
-```
-npm install
-```
+## **Technical Skills**
 
-**3. Run dev server**
-```
-npm run dev
-```
+### **Core Competencies**
 
-**4. Edit config**
-```
-src/app/resources/config
-```
+- **Flutter & Dart** - Cross-platform mobile applications with modern state management
+- **Firebase** - Authentication, real-time database, cloud functions, and storage
+- **Next.js** - Server-side rendering, API routes, and full-stack development
+- **HTML, CSS & JavaScript** - Modern web development with responsive design
 
-**5. Edit content**
-```
-src/app/resources/content
-```
+### **Minor Experiences**
 
-**6. Create blog posts / projects**
-```
-Add a new .mdx file to src/app/blog/posts or src/app/work/projects
-```
+- **Figma** - UI/UX design and prototyping
+- **Kotlin** - Native Android development
+- **PHP & Laravel** - Web application development
+- **C# & ASP.NET** - Application development
+- **MongoDB** - NoSQL database design
+- **Java & Spring Boot** - REST API development
+- **C++** - Object-oriented programming
 
-# **Features**
+## **Featured Projects**
 
-## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
+### **🏭 PNJP MES - Manufacturing Execution System**
 
-## **SEO**
-- Automatic open-graph and X image generation with next/og
-- Automatic schema and metadata generation based on the content file
+A comprehensive Manufacturing Execution System built during my internship at PNJ Production, Vietnam's leading jewelry manufacturer.
 
-## **Design**
-- Responsive layout optimized for all screen sizes
-- Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+**Technologies:** Next.js, Material-UI, TanStack Query, Spring Boot, PostgreSQL  
+**Features:** Real-time production tracking, inventory management, quality control integration
 
-## **Content**
-- Render sections conditionally based on the content file
-- Enable or disable pages for blog, work, gallery and about / CV
-- Generate and display social links automatically
-- Set up password protection for URLs
+### **🛒 GizmoGlobe - E-commerce Platform**
 
-## **Localization**
-- A localized version of Magic Portfolio is available with the next-intl library
-- To use localization, switch to the 'i18n' branch
+A dynamic mobile e-commerce solution for seamless shopping experiences.
 
-# **Authors**
+**Technologies:** Flutter, Firebase, Provider/Bloc state management  
+**Features:** Real-time synchronization, secure authentication, push notifications
 
-Connect with us on Threads or LinkedIn.
+## **Contact & Social**
 
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
-Zsofia Komaromi: [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+- **Email:** [se.terry.2004.career@gmail.com](mailto:se.terry.2004.career@gmail.com)
+- **GitHub:** [Terry-UIT](https://github.com/Terry-UIT)
+- **LinkedIn:** [se-terry](https://www.linkedin.com/in/se-terry/)
+- **Facebook:** [publ.terry](https://www.facebook.com/publ.terry/)
+- **Calendar:** [Schedule a call](https://cal.com/terry-dev)
 
-Localization added by [François Hernandez](https://github.com/francoishernandez)
+## **Education**
 
-# **Get involved**
+**University of Information Technology (UIT)**  
+Bachelor's Degree in Software Engineering  
+_August 2022 - June 2026_
 
-- Join the [Design Engineers Club on Discord](https://discord.com/invite/5EyAQ4eNdS) and share your portfolio with us!
-- Report a [bug](https://github.com/once-ui-system/magic-portfolio/issues/new?labels=bug&template=bug_report.md).
+Vietnam National University Ho Chi Minh City
 
-# **License**
+## **Open to Opportunities**
 
-Distributed under the CC BY-NC 4.0 License.
-- Commercial usage is not allowed.
-- Attribution is required.
+I'm actively seeking internship and entry-level positions in:
 
-See `LICENSE.txt` for more information.
+- **Mobile Development** (Flutter - Dart)
+- **Frontend Development** (Next.js, React, HTML/CSS/JS)
 
-# **Deploy with Vercel**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%2Fdemo.magic-portfolio.com&demo-image=%2F%2Fraw.githubusercontent.com%2Fonce-ui-system%2Fmagic-portfolio%2Fmain%2Fpublic%2Fimages%2Fcover.png)
+Feel free to reach out if you'd like to collaborate or discuss opportunities!
+
+## **License**
+
+This portfolio is built on the Magic Portfolio template, distributed under the CC BY-NC 4.0 License with attribution to [Once UI](https://once-ui.com).
+
+---
+
+**Built with ❤️ using Next.js and Once UI**
