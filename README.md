@@ -32,22 +32,6 @@ I'm To Vinh "Terry" Tien, a software engineering student seeking opportunities a
 - **Java & Spring Boot** - REST API development
 - **C++** - Object-oriented programming
 
-## **Featured Projects**
-
-### **🏭 PNJP MES - Manufacturing Execution System**
-
-A comprehensive Manufacturing Execution System was built during my internship at PNJ Production, Vietnam's leading jewelry manufacturer.
-
-**Technologies:** Next.js, Material-UI, TanStack Query, Spring Boot, PostgreSQL  
-**Features:** Real-time production tracking, inventory management, quality control integration
-
-### **🛒 GizmoGlobe - E-commerce Platform**
-
-A dynamic mobile e-commerce solution for seamless shopping experiences.
-
-**Technologies:** Flutter, Firebase, Bloc state management  
-**Features:** Real-time synchronization, secure authentication, push notifications
-
 ## **Contact & Social**
 
 - **Email:** [se.terry.2004.career@gmail.com](mailto:se.terry.2004.career@gmail.com)
@@ -63,12 +47,5 @@ Bachelor's Degree in Software Engineering
 _August 2022 - June 2026_
 
 Vietnam National University, Ho Chi Minh City
-
-## **Open to Opportunities**
-
-I'm actively seeking entry-level positions in:
-
-- **Mobile Development** (Flutter - Dart)
-- **Web Development** (Next.js, React, HTML/CSS/JS)
 
 Feel free to reach out if you'd like to collaborate or discuss opportunities!
